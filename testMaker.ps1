@@ -1,4 +1,4 @@
-ction formatTitle(){
+function formatTitle(){
     param( 
         [Parameter(Mandatory=$true)][string]$Title
         #[Parameter(Mandatory=$false)][string]$AllCaps
